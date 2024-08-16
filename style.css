@@ -1,0 +1,56 @@
+body{
+    background-color: bisque;
+    background: linear-gradient(gold, bisque);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+h1{
+  color: #24a978;
+  border-top-style: dotted;  
+  border-bottom-style: dashed;
+  border-left-style: dotted;
+  border-right-style: dashed;
+}
+
+
+.odd{
+    color: indianred;
+}
+
+.even{
+    color: fuchsia;
+}
+
+p{
+    font-family: "Press Start 2P";
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: cyan dotted underline;
+    font-size: 18px;
+    border-style: dashed;
+    border-width: 5px;
+    border-color: gold;
+    border-radius: 25px;
+    padding: auto;
+}
+
+button{
+    padding: auto;
+}
+
+#box1{
+    border-radius: 5px;
+    width: 250px;
+    height: 250px;
+    font-size: 45px;
+    background-color:blue ;
+}
+
+#box2{
+    border-radius: 5px;
+    width: 1000px;
+    height: 1000px;
+    font-size: 45px;
+    background-color:blue ;
+}
